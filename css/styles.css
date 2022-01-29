@@ -60,7 +60,7 @@ th{
   height: 100px;
   width: 100px;
   position: absolute;
-  left: 150px;
+  left: 10%;
   top: 100px;
 }
 .i2{
@@ -68,21 +68,21 @@ th{
   width: 100px;
   position: absolute;
   bottom: 250px;
-  left: 180px;
+  left: 10%;
 }
 .i3{
   height: 100px;
   width: 100px;
   position: absolute;
   bottom: 150px;
-  right: 120px;
+  right: 10%;
 }
 .i4{
   height: 100px;
   width: 100px;
   position: absolute;
   top: 160px;
-  right: 120px;
+  right: 10%;
 }
 .top-container
 {
