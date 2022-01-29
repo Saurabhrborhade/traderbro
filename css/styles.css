@@ -1,0 +1,115 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+img{
+  width: 50%;
+
+}
+h1{
+  color: #99154E;
+  padding: 70px 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  margin: 0;
+
+
+}
+h2
+{
+  padding-bottom: 50px;
+  font-family: 'Merriweather', serif;
+  color: #BFA2DB;
+  font-size: 2em;
+}
+h3{
+  color: #8E806A;
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  width: 15%;
+  border-width: 20px;
+  border-style: none;
+  border-top-style: dotted;
+  color: #C1FFD7;
+  padding-bottom: 50px;
+}
+sup{
+  font-family: sans-serif;
+}
+table{
+  margin: 0 auto;
+  padding-bottom: 70px;
+
+}
+th{
+  font-family: 'Merriweather', serif;
+
+}
+.bull-img{
+  height: 400px;
+    width: 500px;
+}
+.bottom-container{
+  padding: 40px 0;
+  background-color: #94B3FD;
+
+}
+.i1{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 300px;
+  top: 100px;
+}
+.i2{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  bottom: 250px;
+  left: 180px;
+}
+.i3{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  bottom: 150px;
+  right: 120px;
+}
+.i4{
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 170px;
+  right: 223px;
+}
+.top-container
+{
+  background-color: #CDF0EA;
+  position:relative;
+  margin: 0;
+
+}
+.top-price{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.stocksprice{
+  height: 70px;
+  width: 70px;
+
+}
+.sprice{
+  display:inline-block;
+}
+.td1{
+  background-color: #FFADF0;
+}
+.td2{
+  background-color: #FEE3EC;
+}
+.td3{
+  background-color: #EDD2F3;
+}
