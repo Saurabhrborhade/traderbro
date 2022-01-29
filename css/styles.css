@@ -60,7 +60,7 @@ th{
   height: 100px;
   width: 100px;
   position: absolute;
-  left: 10%;
+  left: 50px;
   top: 100px;
 }
 .i2{
@@ -68,7 +68,7 @@ th{
   width: 100px;
   position: absolute;
   bottom: 250px;
-  left: 10%;
+  left: 50px;
 }
 .i3{
   height: 100px;
