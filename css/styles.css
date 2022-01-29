@@ -9,9 +9,9 @@ img{
 }
 h1{
   color: #99154E;
-  padding: 70px 0;
+  padding: 70px 0 20px;
   font-family: 'Sacramento', cursive;
-  font-size: 5em;
+  font-size: 7em;
   margin: 0;
 
 
@@ -20,7 +20,7 @@ h2
 {
   padding-bottom: 50px;
   font-family: 'Merriweather', serif;
-  color: #BFA2DB;
+  color: #FF9300;
   font-size: 2em;
 }
 h3{
@@ -60,7 +60,7 @@ th{
   height: 100px;
   width: 100px;
   position: absolute;
-  left: 300px;
+  left: 150px;
   top: 100px;
 }
 .i2{
@@ -81,12 +81,12 @@ th{
   height: 100px;
   width: 100px;
   position: absolute;
-  top: 170px;
-  right: 223px;
+  top: 160px;
+  right: 120px;
 }
 .top-container
 {
-  background-color: #CDF0EA;
+  background-color: #C0D8C0;
   position:relative;
   margin: 0;
 
