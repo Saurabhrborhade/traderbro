@@ -47,6 +47,8 @@ th{
   font-family: 'Merriweather', serif;
 
 }
+td{
+  padding:8px;}
 .bull-img{
   height: 400px;
     width: 500px;
